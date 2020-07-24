@@ -1,0 +1,22 @@
+{
+ads: {
+id_app: "",
+banner_setting: "ca-app-pub-/6667676781",
+inter_setting: "ca-app-pub-/6667676781",
+banner_main: "ca-app-pub-/6667676781",
+inter_main: "ca-app-pub-/6667676781",
+onlyAdmod: true,
+onlyFB: false,
+fb_banner: "2766779400217802_2766780343551041",
+fb_inter: "2766779400217802_2766779786884430"
+},
+isExit: true,
+showMoreApp: false,
+idNew: "",
+app_exists: {
+id: "com.king.candycrushsaga",
+is_exists: true,
+is_show_more: true
+},
+apps: [ ]
+}
