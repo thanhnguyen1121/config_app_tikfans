@@ -1,0 +1,33 @@
+{
+  "ads": {
+    "id_app": "",
+    "banner_setting": "ca-app-pub-5315325291235997/6656603260",
+    "inter_setting": "ca-app-pub-5315325291235997/1404276580",
+    "banner_main": "ca-app-pub-5315325291235997/5151949907",
+    "inter_main": "ca-app-pub-5315325291235997/2525786568",
+    "banner_setting_new" : "ca-app-pub-5315325291235997/6656603260",
+    "inter_setting_new" : "ca-app-pub-5315325291235997/1404276580",
+    "banner_main_new" : "ca-app-pub-5315325291235997/5151949907",
+    "inter_main_new" : "ca-app-pub-5315325291235997/2525786568",
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "",
+    "fb_inter": ""
+  },
+  "isExit": true,
+  "showMoreApp": false,
+  "idNew": "",
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+    "is_exists": true,
+    "is_show_more": true
+  },
+  "apps": [
+   {
+      "id": "com.king.candycrushsaga",
+      "icon": "https://lh3.googleusercontent.com/nH7Fy5zzUuU5ZXNbmCNL1ExKEpObT17IIsvYBYLoGjtUKpsf_tTfX9C8fCmauQ9oQ65Y=s180-rw",
+      "name": "Call of Duty: Mobile VN",
+      "des": "Là tựa game xuất sắc giành được các danh hiệu cao nhất của Google Play Awards 2019:"
+    }
+  ]
+}
