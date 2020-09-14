@@ -25,33 +25,51 @@
     "isLoading": false,
     "isShowAds": true
   },
-  "apps": [
-   {
-      "id": "com.gamma.scan",
-      "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-      "des": "Functional QR scanner and barcode reader that requires little storage",
-      "name": "QR & Barcode Scanner",
-      "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-      "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-      "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+  "apps":  [
+  {
+      "id": "com.instagram.add.follow.fan.like.analysis.app",
+      "icon": "https://lh3.googleusercontent.com/d1fdyRBS4MdqFM8cHnVeFObogy0O1GMXYp8eEP0sNkHoZx3TFae8Re7EL16jeYt-xKw=s180-rw",
+      "name": "Get Likes & Followers for Instagram 2020",
+      "des": "Likes, Followers for Instragram 2020 : Gain and Boost more Fans & Followers. Get discovered quickly - boost your profile views and engagement and real likes followers.",
+      "s1":"https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1366-h576-rw",
+      "s2":"https://lh3.googleusercontent.com/FfLXz4RouMyD9lVZZSK0CxKC_07INg_uJnFmenArU_RRBmqH6bkZArBMSu-p5zYnSA=w1366-h576-rw",
+      "s3":"https://lh3.googleusercontent.com/HHfDxxt5ALlJq0XenO4M6B2bsk68x1SEJf8-fHd-oG_htAjuEE9OADsY0KHi5fz3psw=w1366-h576-rw"
+    },  
+  {
+      "id": "com.shopee.add.follow.fan.like.analysis.app",
+      "icon": "https://lh3.googleusercontent.com/-DNNjQ2XYw2EsbZnf7tSyQYD_Bv3Fb9A6C_rt42dyicZCRFd8JVd3e3SYmou3uaer1o=s180-rw",
+      "name": "ShopeeLike free followers and likes",
+      "des": "Do you want to boost your ShopeeLike posts and get more likes for free? If you make great videos but have not been able to get them to be easily discoverable, you have come to the right place.",
+      "s1":"https://lh3.googleusercontent.com/LG0goS_jbcBwDoCr5749DwOvh8YWtkP6DHZTNdre2NK6nOTIHdsPk3HwS6V0nOD6dI4=w1366-h576-rw",
+      "s2":"https://lh3.googleusercontent.com/MoZaqkmAxTyaazN6chEi1KTnzLGS0Z4USHLtlR8zqgxygzirJIIcOaVUeniG9pvXoA8=w1366-h576-rw",
+      "s3":"https://lh3.googleusercontent.com/K7RUUDlZAp2FJGLMnoaxRDee1dIPif0BEg3HLu71ameqmFwDUcPXqn9dQlVQ_5Q_XYI=w1366-h576-rw"
     },
     {
-      "id": "com.gamma.scan",
-      "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-      "des": "Functional QR scanner and barcode reader that requires little storage",
-      "name": "QR & Barcode Scanner",
-      "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-      "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-      "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+      "id": "com.office.document.manager.reader.allfiles",
+      "icon": "https://lh3.googleusercontent.com/SAd-tgewmX2COMSMUw9fMt2hTlDX2f79EGuoSy_m9KYpdqIDWgAW9OV0omqzxUcNbQ=s180-rw",
+      "name": "Office Document Reader - Docx, Xlsx, PPT, PDF, TXT",
+      "des": "Do you have documents on your mobile that you can't open? Document Reader is the solution! It is a free application that allows you to open and view over Word (doc, docx), Sheet (xls, xlsx), Slide (ppt, pptx) , PDF and TXT file formats support.",
+      "s1":"https://lh3.googleusercontent.com/rvmr57GHrk-0XKUbAD7t8gBJfxEDPD0uwOmBrb19TMIQrD6iH2Oi_IUgV7LcEe3jL7Kv=w1366-h576-rw",
+      "s2":"https://lh3.googleusercontent.com/nHd-tfTlkWH7Eol8X0bXrX87SJSrdmjSHvFJykGu71W41yINjTiONuYmmvb_kh_ZGA=w720-h310-rw",
+      "s3":"https://lh3.googleusercontent.com/jMT8IiEq3WgVb0kBDVAP57Ga38IsfOWgK6WBZlmcsT1fXiJ6m_IJoiGn2QQs4MZkCpUY=w720-h310-rw"
     },
     {
-      "id": "com.gamma.scan",
-      "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-      "des": "Functional QR scanner and barcode reader that requires little storage",
-      "name": "QR & Barcode Scanner",
-      "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-      "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-      "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+      "id": "com.free.videodownloaderfortiktok",
+      "icon": "https://lh3.googleusercontent.com/rVpwxm7nj4mGn5NhaFfa5AGTF0-4UjH2gCOEGsAbgduaRCgcXEK_rndesQF_ZjmSgw=s180-rw",
+      "name": "Video Downloader for TikTok - No Watermark",
+      "des": "Video Downloader for Tiktok is the easiest Video Downloader app to download and save videos from Tiktok .",
+      "s1":"https://lh3.googleusercontent.com/hJDHCnu0384NvuZPV8NHcMiE-_-od7LxmqVlkj89sRwSvu-tX-D9xeD-3jZs8m2cDG8=w720-h310-rw",
+      "s2":"https://lh3.googleusercontent.com/pb2ApeDuHsJi0tRTAYgrV91hkdGcD6i_G4ursOUEf1Ewk-QhsZMlHaCmWkbdq2tYSg=w720-h310-rw",
+      "s3":"https://lh3.googleusercontent.com/-MKRriQ6ORNsRCi9NfTtKswZa0gVohWto-UJGAosu6YoQQCBFWayFTUDI1kjA_ZKXIU=w720-h310-rw"
+    },
+    {
+      "id": "instasaver.videodownloader.photodownloader.repost.free",
+      "icon": "https://lh3.googleusercontent.com/KkagdDMOR7VkeDNUuY7dXifmuHfrtyiNpZpFdcSJ5GLH03n6NWVDqqxFkBnISQfWfog=s180-rw",
+      "name": "Photo & Videos Downloader for Instagram - IG Saver",
+      "des": "Photo & Videos Downloader for Instagram - IG Saver App is the fastest and easiest video downloader to download and save videos. Video saver is the best video downloading app for peoples who are",
+      "s1":"https://lh3.googleusercontent.com/8ZGP0Lo64JADeUi1FXIyRcvKsPREICaVK2smgtBqc1GAvSX3WcsoOAGeDR-54_mLeItH=w720-h310-rw",
+      "s2":"https://lh3.googleusercontent.com/DPY_Y-laPhNSVuBpjaoaAnDYdEoikAeW-xCadlQ223NpnW3BHMWvv2QIYMZ4_LSfsIs=w720-h310-rw",
+      "s3":"https://lh3.googleusercontent.com/4-Z6B8LYi1iCJGeejqcqTtX2JZcxpNRHflMauxYZKrW7JvKUOx4pCF_eCqrkOKwi-NI=w720-h310-rw"
     }
-  ]
+]
 }
