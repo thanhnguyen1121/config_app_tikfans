@@ -16,13 +16,13 @@
     "fb_inter": "2766779400217802_2766779786884430"
   },
   "isExit": true,
-  "showMoreApp": false,
+  "showMoreApp": true,
   "idNew": "",
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
     "is_show_more": true,
-    "isLoading": true,
+    "isLoading": false,
     "isShowAds": true
   },
   "apps": [
