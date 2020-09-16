@@ -22,8 +22,8 @@
     "id": "com.king.candycrushsaga",
    "is_exists": true,
     "is_show_more": true,
-    "isLoading": true,
-    "isShowAds": true
+    "isLoading": false,
+    "isShowAds": false
   },
   "apps": [
    {
