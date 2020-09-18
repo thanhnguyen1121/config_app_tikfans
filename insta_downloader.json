@@ -20,7 +20,9 @@
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
-    "is_show_more": true
+    "is_show_more": true,
+    "isLoading": false,
+    "isShowAds": true
   },
   "apps": [
    {
@@ -29,6 +31,5 @@
       "name": "Call of Duty: Mobile VN",
       "des": "Là tựa game xuất sắc giành được các danh hiệu cao nhất của Google Play Awards 2019:"
     }
-  ],
-  "isLoading":false
+  ]
 }
