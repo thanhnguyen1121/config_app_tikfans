@@ -10,10 +10,10 @@
     "inter_setting_new" : "ca-app-pub-4084941899768286/9161181367",
     "banner_main_new" : "ca-app-pub-4084941899768286/5221936359",
     "inter_main_new" : "ca-app-pub-4084941899768286/8969609677",
-    "onlyAdmod": true,
-    "onlyFB": false,
-    "fb_banner": "2766779400217802_2766780343551041",
-    "fb_inter": "2766779400217802_2766779786884430"
+    "onlyAdmod": false,
+    "onlyFB": true,
+    "fb_banner": "371286827538021_371288290871208",
+    "fb_inter": "371286827538021_371288624204508"
   },
   "isExit": true,
   "showMoreApp": true,
