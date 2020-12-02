@@ -1,0 +1,34 @@
+{
+  "ads": {
+    "id_app":"5f1eefd8e88d834ccd84aa91",
+    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
+    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
+    "banner_main": "ca-app-pub-3940256099942544/6300978111",
+    "inter_main": "ca-app-pub-3940256099942544/1033173712",
+    "banner_setting_new" : "ca-app-pub-3940256099942544/6300978111",
+    "inter_setting_new" : "ca-app-pub-3940256099942544/1033173712",
+    "banner_main_new" : "ca-app-pub-3940256099942544/6300978111",
+    "inter_main_new" : "ca-app-pub-3940256099942544/1033173712",
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_inter": "YOUR_PLACEMENT_ID",
+    "bannerFb_Setting":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interFb_Setting":"YOUR_PLACEMENT_ID",
+    "fluryId":"hehe",
+    "isShowAds":false
+  }, 
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+    "is_exists": true,
+    "is_show_more": false
+  },
+  "apps": [
+    {
+      "id": "com.guide.Friday13th.gameplay.walkthrough",
+      "icon": "https://lh3.googleusercontent.com/maxM2ioqFRrGAfFkRq7-1G-SlZ5JENlvzeM3JjWwNiuHHnvFfF2STpeVjaPtjxlXuqJM=s180-rw",
+      "name": "New Guide For Friday The 13th Game",
+      "des": "New Friday the 13th tips: now Jason is back! Our Jason Voorhees is released and is staking Camp Crystal Lake land!"
+    }
+  ]
+}
