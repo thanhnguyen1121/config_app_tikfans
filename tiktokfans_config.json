@@ -20,7 +20,7 @@
   "idNew": "",
   "app_exists": {
     "id": "com.tikfan.add.follow.fan.like.analysis.app",
-    "is_exists": false,
+    "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
     "isShowAds": true
