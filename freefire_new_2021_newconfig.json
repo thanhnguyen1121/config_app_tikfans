@@ -10,12 +10,12 @@
     "inter_setting_new": "ca-app-pub-3399710561924220/1919122148",
     "banner_main_new": "ca-app-pub-3399710561924220/9606040470",
     "inter_main_new": "ca-app-pub-3399710561924220/8268892167",
-    "onlyAdmod": false,
-    "onlyFB": true,
-    "fb_banner": "720370308883742_720375498883223",
-    "fb_inter": "720370308883742_720375372216569",
-    "fb_banner_main":"720370308883742_720375238883249",
-    "fb_inter_main":"720370308883742_720375615549878"
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "",
+    "fb_inter": "",
+    "fb_banner_main":"",
+    "fb_inter_main":""
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
